@@ -170,11 +170,7 @@ function Discounts() {
         </div>
       )}
 
-      {/* Notifications Setup Placeholder */}
-      <div className="bg-gray-100 p-4 rounded shadow">
-        <h3 className="font-bold mb-2">Notifications Setup</h3>
-        <p>Here you can configure notifications related to discounts (coming soon).</p>
-      </div>
+      
     </div>
   );
 }
